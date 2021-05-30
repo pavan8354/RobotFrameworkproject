@@ -18,7 +18,13 @@ Mysecondtest
     [Tags]    Smoke
     Log    Hello-worlds    
     
- 
+Mythirdtest
+    [Tags]    Sanity
+    Log    Hello-worlds 
+    
+Myfourthtest
+    [Tags]    Regression
+    Log    Hello-worlds 
 # SameLoginTest
     # [Documentation]    This is Simple LoginTest
     # Open Browser    ${URL}       chrome
